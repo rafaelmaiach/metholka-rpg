@@ -1,0 +1,1 @@
+{"_default": {"1": {"coins": 180, "inventory": [{"damage": 1, "price": 30, "type": "weapon", "name": "Dagger"}], "name": "Little Boy"}, "2": {"coins": 95, "inventory": [{"price": 45, "type": "armor", "defense": 1, "name": "Boots"}, {"price": 90, "type": "armor", "defense": 1, "name": "Silver Armor"}], "name": "Player01"}}}
